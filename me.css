@@ -1,0 +1,6 @@
+/* code by me */
+@media screen and (max-width: 272px) {
+    .category__button-container {
+      grid-template-columns: 1fr;
+    }
+  }
